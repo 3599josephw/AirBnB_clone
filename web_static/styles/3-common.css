@@ -1,0 +1,14 @@
+@import url(3-header.css);
+@import url(3-footer.css);
+
+html, body {
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+}
+
+body {
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    color: #484848;
+}
