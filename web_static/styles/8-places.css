@@ -74,16 +74,16 @@ article {
 }
 
 .guest-icon {
-    padding-left: 5px;
+    padding-left: 27px;
     content: url(../images/icon_group.png);
 }
 
 .bed-icon {
-    padding-left: 8px;
+    padding-left: 27px;
     content: url(../images/icon_bed.png);
 }
 
 .bath-icon {
-    padding-left: 15px;
+    padding-left: 27px;
     content: url(../images/icon_bath.png);
 }
